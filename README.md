@@ -10,12 +10,12 @@ Just
 npm install
 ```
 
-then fill in your API username, token, and base URL you were given after you signed up as an Affiliate.
+then open the JS file of your desired example and fill in your API username, token, and base URL you were given after you signed up as an Affiliate.
 
 Then
 
 ```
-node <desired_example.js>
+node <example.js>
 ```
 
 to see the results of any example you like.

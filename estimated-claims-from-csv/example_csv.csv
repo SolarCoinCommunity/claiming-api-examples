@@ -1,0 +1,3 @@
+facilityName,firstName,lastName,claimantEmail,address,city,state,zipCode,country,nameplate,installDate,documentation,walletAddress,legalOwner,claimantRelationship,ofacCompliant,bountyEmail,bountyWallet
+Factory Roof,Joe,Clark,joe@hotmail.com,Crescent Street 5,Auckland,Waikato,XV4556,NZ,4.53,2015-08-21,https://googledrive…,8dKB4huWep18H3QBgtD8heJy57eeqQWXFA,Joe Clark,owner,true,clientsupport@solarmonitoringcompany.com,8dKB4huWep18H3QBgtD8heJy57eeqQWXFA
+Backyard,Bill,Smith,bill@yahoo.com,Turbulent road 19,Auckland,Waikato,XV4556,NZ,2.56,2010-12-20,https://googledrive…,8dKB4huWep18H3QBgtD8heJy57eeqQWXFA,Frank Jones,residential_resident,true,clientsupport@solarmonitoringcompany.com,8dKB4huWep18H3QBgtD8heJy57eeqQWXFA
